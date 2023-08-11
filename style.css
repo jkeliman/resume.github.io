@@ -30,12 +30,6 @@ body {
     margin: 15px;
     /* text-align: center; */
   }
-
-  .bottom {
-        width: 100%;
-        border-radius: 1px; 
-        padding: 0; 
-  }
   
   .flex-container {
     display: flex;
