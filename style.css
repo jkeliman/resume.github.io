@@ -31,8 +31,11 @@ body {
     /* text-align: center; */
   }
 
-  .top {
-    background-color: #eae0e0;
+  .bottom {
+    border: 5px solid white;
+        width: 100%;
+        border-radius: 1px; 
+        padding: 0; 
   }
   
   .flex-container {
