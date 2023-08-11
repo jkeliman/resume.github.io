@@ -6,8 +6,6 @@ body {
         text-transform: uppercase;
         font-size: 1rem;
       }
-
-
  .jkphoto {
         border: 5px solid white;
         width: 100%;
@@ -17,7 +15,6 @@ body {
         display: block;
         box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
       }
-
 .summary {
   width: 50%;
   margin-left: 25%;
