@@ -15,7 +15,7 @@ body {
     .jkphoto {
       border: 5px solid white;
       width: 50%;
-      border-radius: 50%; 
+      border-radius: 10px; 
       padding: .5px;
 
       box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75), -5px -5px 5px 0px rgba(255, 0, 0, 0.75);
